@@ -3,7 +3,6 @@ import * as React from "react";
 import { Helmet } from "react-helmet";
 import { CallIcon, ChatIcon, STCIcon } from "../components/icons";
 
-// markup
 const IndexPage = () => {
   return (
     <>
